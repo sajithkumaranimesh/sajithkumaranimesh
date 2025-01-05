@@ -24,7 +24,7 @@
 - ⚡ Fun fact **Call me as Nimesh**
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://drive.google.com/file/d/1HS1Nq7eFmuT1HsyV9Vm3YhSQq_qFNvcu/view">
+  <img align="center" alt="Coding" width="450" src="https://raw.githubusercontent.com/sajithkumaranimesh/sajithkumaranimesh/refs/heads/main/DALL%C2%B7E%202025-01-05%2010.24.31%20-%20A%20conceptual%20illustration%20of%20a%20grade%2010%20student%20sitting%20at%20a%20desk%2C%20surrounded%20by%20coding%20books%2C%20a%20laptop%20with%20code%20displayed%20on%20the%20screen%2C%20and%20notes%20s.webp">
 </td>
 </tr>
 </table>
